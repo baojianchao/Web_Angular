@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  
+  .card-deck .card {
+    min-width: 220px;
+  }
+
+  .page{
+    background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589975816883&di=7997df24b0cf78c6cec353815bbeecf5&imgtype=0&src=http%3A%2F%2Fwww.cd02.cn%2Fuploadfile%2F2015%2F0928%2F20150928112044974.gif');
+    background-size: 25%;
+}
+  

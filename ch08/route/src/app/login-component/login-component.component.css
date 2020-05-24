@@ -1,0 +1,12 @@
+.login-content{
+    height: 100vh;
+    
+}
+form{
+    width: 35rem;
+    opacity: .8;
+}
+.page{
+        background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589975816883&di=86014d54be6268d771fe3dde40a3b065&imgtype=0&src=http%3A%2F%2Fcc.cocimg.com%2Fapi%2Fuploads%2F20150902%2F1441156138626326.gif');
+        background-size: 25%;
+    }
